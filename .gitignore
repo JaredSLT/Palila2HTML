@@ -1,0 +1,5 @@
+.idea/
+target/
+*.iml
+Settings.json
+babygalago.db
